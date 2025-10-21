@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hoor</h1>
 <h3 align="center">Software developer interested in creating digital solutions and pushing the boundaries of technology ✨</h3>
 
-- 🔶 Currently, I’m learning **MERN stack.**
-
-- 🔶 Ask me about **Web development, Algorithms and problem-solving 🧠**
-
 - 📧 Reach me via my email: **Altoaimy.hoor@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
